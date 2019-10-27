@@ -1972,3 +1972,9 @@ Noida
 - Place: New Delhi,India
 - Bio: Student,Open source enthusiast,GSOC '17 participant, InOut 4.0 blockchain track winner
 - GitHub: [Rishabh42](https://github.com/Rishabh42)
+
+
+#### Name: [Omer Javed](https://github.com/omerjaved11)
+- Place: Lahore,Pakistan
+- Bio: Aspiring Data Scientist, Machine Learning Enthusiast
+- GitHub: [Omer Javed](https://github.com/omerjaved11)
